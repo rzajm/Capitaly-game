@@ -1,0 +1,22 @@
+16
+P
+P
+L 3000
+P
+S 4000
+P
+S 6000
+P
+P
+P
+L 4000
+P
+P
+P
+P
+P
+3
+Jan G
+Isaac C
+Nurlan T
+12376

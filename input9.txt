@@ -1,0 +1,22 @@
+16
+P
+S 2000
+L 3000
+P
+S 4000
+P
+P
+L 2000
+P
+P
+S 1000
+P
+P
+L 5000
+P
+P
+3
+Alice T
+Bob G
+Charlie C
+123456
